@@ -1,0 +1,17 @@
+{
+  "name": "intro-to-tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^4.1.1"
+  },
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
